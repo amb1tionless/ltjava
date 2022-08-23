@@ -1,0 +1,5 @@
+com\dtk\configs\WebAppContextConfig.class
+com\dtk\configs\DispatcherServletInit.class
+META-INF\spring.components
+com\dtk\controllers\IndexController.class
+.netbeans_automatic_build
